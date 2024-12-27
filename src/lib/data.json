@@ -1,0 +1,272 @@
+[
+    {
+      "id": 1,
+      "title": "The Power of APIs in Modern Web Development",
+      "author": "Kingsley Faulconer",
+      "publish_date": "11/12/2020",
+      "views": 998118,
+      "tags": "gadgets",
+      "comments": 410
+    },
+    {
+      "id": 2,
+      "title": "Coding for Beginners: Where to Start",
+      "author": "Julianna Sivior",
+      "publish_date": "6/26/2021",
+      "views": 16651,
+      "tags": "cybersecurity",
+      "comments": 291
+    },
+    {
+      "id": 3,
+      "title": "Cybersecurity Best Practices for Developers",
+      "author": "Amber Creebo",
+      "publish_date": "10/24/2020",
+      "views": 200878,
+      "tags": "programming",
+      "comments": 365
+    },
+    {
+      "id": 4,
+      "title": "The Power of APIs in Modern Web Development",
+      "author": "Pierette Liggins",
+      "publish_date": "11/10/2020",
+      "views": 386036,
+      "tags": "gadgets",
+      "comments": 59
+    },
+    {
+      "id": 5,
+      "title": "The Future of Frontend Development",
+      "author": "Roobbie Koppes",
+      "publish_date": "3/12/2021",
+      "views": 523580,
+      "tags": "tech",
+      "comments": 245
+    },
+    {
+      "id": 6,
+      "title": "Building Interactive Web Applications with React",
+      "author": "Averell Stearns",
+      "publish_date": "3/11/2021",
+      "views": 272914,
+      "tags": "AI",
+      "comments": 114
+    },
+    {
+      "id": 7,
+      "title": "Mastering Python: A Comprehensive Guide",
+      "author": "Loella Lupton",
+      "publish_date": "9/1/2020",
+      "views": 172686,
+      "tags": "AI",
+      "comments": 180
+    },
+    {
+      "id": 8,
+      "title": "Debugging Techniques Every Coder Should Know",
+      "author": "Adela Morbey",
+      "publish_date": "5/18/2021",
+      "views": 915842,
+      "tags": "tech",
+      "comments": 246
+    },
+    {
+      "id": 9,
+      "title": "Understanding Object-Oriented Programming Concepts",
+      "author": "Merrielle O'Mara",
+      "publish_date": "2/23/2020",
+      "views": 652901,
+      "tags": "programming",
+      "comments": 78
+    },
+    {
+      "id": 10,
+      "title": "Understanding Object-Oriented Programming Concepts",
+      "author": "Garwin Divis",
+      "publish_date": "8/5/2020",
+      "views": 739882,
+      "tags": "cybersecurity",
+      "comments": 350
+    },
+    {
+      "id": 11,
+      "title": "10 Essential Tools for Web Developers",
+      "author": "Madelyn Pennells",
+      "publish_date": "2/28/2020",
+      "views": 316926,
+      "tags": "tech",
+      "comments": 186
+    },
+    {
+      "id": 12,
+      "title": "Coding Bootcamp vs. Computer Science Degree",
+      "author": "Latashia Barke",
+      "publish_date": "8/28/2021",
+      "views": 973085,
+      "tags": "AI",
+      "comments": 388
+    },
+    {
+      "id": 13,
+      "title": "Advancing Your Career in Tech",
+      "author": "Janene Sharpe",
+      "publish_date": "12/25/2021",
+      "views": 954781,
+      "tags": "gadgets",
+      "comments": 255
+    },
+    {
+      "id": 14,
+      "title": "Top 10 Tips for Coding Success",
+      "author": "Fredericka Farfoot",
+      "publish_date": "5/26/2021",
+      "views": 537518,
+      "tags": "cybersecurity",
+      "comments": 164
+    },
+    {
+      "id": 15,
+      "title": "Mastering Python: A Comprehensive Guide",
+      "author": "Rea Grayston",
+      "publish_date": "11/29/2020",
+      "views": 900384,
+      "tags": "gadgets",
+      "comments": 182
+    },
+    {
+      "id": 16,
+      "title": "Coding for Beginners: Where to Start",
+      "author": "Myer Lidden",
+      "publish_date": "12/3/2020",
+      "views": 133714,
+      "tags": "tech",
+      "comments": 366
+    },
+    {
+      "id": 17,
+      "title": "Improving Code Readability and Maintainability",
+      "author": "Hamlin Sturch",
+      "publish_date": "8/16/2021",
+      "views": 391031,
+      "tags": "AI",
+      "comments": 2
+    },
+    {
+      "id": 18,
+      "title": "The Power of APIs in Modern Web Development",
+      "author": "Stepha Buscher",
+      "publish_date": "1/31/2021",
+      "views": 500313,
+      "tags": "AI",
+      "comments": 134
+    },
+    {
+      "id": 19,
+      "title": "Creating Responsive Websites with CSS Grid",
+      "author": "Sascha Aindrais",
+      "publish_date": "11/27/2021",
+      "views": 610582,
+      "tags": "cybersecurity",
+      "comments": 265
+    },
+    {
+      "id": 20,
+      "title": "10 Common Coding Mistakes to Avoid",
+      "author": "Dominica Gent",
+      "publish_date": "1/31/2021",
+      "views": 130987,
+      "tags": "gadgets",
+      "comments": 118
+    },
+    {
+      "id": 21,
+      "title": "Creating Responsive Websites with CSS Grid",
+      "author": "Scarlett Springthorp",
+      "publish_date": "7/30/2021",
+      "views": 867268,
+      "tags": "AI",
+      "comments": 143
+    },
+    {
+      "id": 22,
+      "title": "Exploring Data Structures and Algorithms",
+      "author": "Randi Heal",
+      "publish_date": "5/15/2021",
+      "views": 898840,
+      "tags": "tech",
+      "comments": 144
+    },
+    {
+      "id": 23,
+      "title": "Creating Responsive Websites with CSS Grid",
+      "author": "Benni Blakeway",
+      "publish_date": "5/18/2021",
+      "views": 249661,
+      "tags": "AI",
+      "comments": 250
+    },
+    {
+      "id": 24,
+      "title": "The Future of Frontend Development",
+      "author": "Fenelia Bosence",
+      "publish_date": "8/6/2021",
+      "views": 264636,
+      "tags": "AI",
+      "comments": 167
+    },
+    {
+      "id": 25,
+      "title": "Top 10 Tips for Coding Success",
+      "author": "Neille Fruser",
+      "publish_date": "4/11/2021",
+      "views": 72471,
+      "tags": "cybersecurity",
+      "comments": 318
+    },
+    {
+      "id": 26,
+      "title": "Creating Responsive Websites with CSS Grid",
+      "author": "Sinclair Haack",
+      "publish_date": "10/20/2020",
+      "views": 204588,
+      "tags": "programming",
+      "comments": 144
+    },
+    {
+      "id": 27,
+      "title": "10 Essential Tools for Web Developers",
+      "author": "Lydie Cleiment",
+      "publish_date": "10/8/2021",
+      "views": 905260,
+      "tags": "tech",
+      "comments": 465
+    },
+    {
+      "id": 28,
+      "title": "Exploring Data Structures and Algorithms",
+      "author": "Celia Russilll",
+      "publish_date": "8/6/2020",
+      "views": 605096,
+      "tags": "programming",
+      "comments": 500
+    },
+    {
+      "id": 29,
+      "title": "Introduction to Backend Development with Node.js",
+      "author": "Trish Mault",
+      "publish_date": "11/18/2021",
+      "views": 280717,
+      "tags": "AI",
+      "comments": 74
+    },
+    {
+      "id": 30,
+      "title": "10 Essential Tools for Web Developers",
+      "author": "Kristian Ryde",
+      "publish_date": "4/27/2020",
+      "views": 884341,
+      "tags": "gadgets",
+      "comments": 301
+    }
+  ]
